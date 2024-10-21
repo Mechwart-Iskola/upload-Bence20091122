@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Kovács Bence
+osztály: 9.F
